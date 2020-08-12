@@ -1,0 +1,13 @@
+/*
+=======================
+IMPORTANT!
+=======================
+*/
+* { font-family: 'Inconsolata', monospace; }
+html, body { margin: 0; height: 100%; }
+body { display: flex; flex-direction: column; background-color: #C7FAE4; }
+header, footer { flex: none; background: #008b74; color: white;}
+main { overflow-y: scroll; flex: auto; }
+
+
+
